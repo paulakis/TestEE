@@ -1,0 +1,5 @@
+Domain\Dto.class
+Domain\ExceptionHelper.class
+Exceprtionhandler\GeneralExceptionHandler.class
+Resources\TestResource.class
+Application.class
